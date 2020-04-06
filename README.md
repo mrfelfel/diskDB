@@ -1,10 +1,13 @@
-# diskDB [![Build Status](https://secure.travis-ci.org/arvindr21/diskDB.png?branch=master)](https://travis-ci.org/arvindr21/diskDB) [![NPM version](https://badge-me.herokuapp.com/api/npm/diskdb.png)](http://badges.enytc.com/for/npm/diskdb) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/arvindr21/diskDB?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# diskDB 
 
-[![NPM](https://nodei.co/npm/diskdb.png?downloads=true&stars=true)](https://nodei.co/npm/diskdb/)
 
-A Lightweight Disk based JSON Database with a MongoDB like API for Node.
+یک دیتابیس کوچیک با ای پی ای ها کوچیک مونگو دیبی.
 
-_You will never know that you are interacting with a File System_
+_شاید هیچ وقت نخواهید بدونید که دارید با یک فایل سیستم کار میکنید !_
+
+این پروژه ای هست که من شروع به فورک کردنش کردم و دوست دارم توسعه و بهبودش بدم این یک دیتابیس کوچیک هست که بدرد پروژه های کوچیک میخوره پس بیاید امکاناتمون رو یکم بیشتر کنیم تا بدرد پروژه ها یکم بزرگتر هم بخوره 
+
+فلفل دلمه - فروردین ۱۳۹۹
 
 ## Contents
 
